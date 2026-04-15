@@ -12,6 +12,19 @@ Combine all OOP concepts that have been learned:
 
 ---
 
+## Screenshots
+
+### 1. Display All Employees
+![Display All Employees](image/gambar1.png)
+
+### 2. Add New Employee
+![Add New Employee](image/gambar2.png)
+
+### 3. Search Employee by ID
+![Search Employee by ID](image/gambar3.png)
+
+---
+
 ## Folder Structure
 
 ```
